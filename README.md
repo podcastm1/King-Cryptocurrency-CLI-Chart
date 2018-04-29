@@ -1,6 +1,7 @@
 # King Cryptocurrency CLI Chart
+![alt text](https://raw.githubusercontent.com/podcastm1/King-Cryptocurrency-CLI-Chart/master/Image/img1.png)
 
-This Application is running on your CLI environment Cryptocurrency Chart based on Python3, [Ascii Chart](https://github.com/kroitor/asciichart), [ccxt](https://github.com/ccxt/ccxt/)
+This Application is running on your CLI environment Cryptocurrency Chart based on Python3, [AsciiChart](https://github.com/kroitor/asciichart), [ccxt](https://github.com/ccxt/ccxt/)
 
 # Install
 ### Requirements
